@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Fifa 22",
+        "rating": "4.48 de 5.00",
+        "released": "2021 - 08 - 12",
+        "updated": "2022 - 02 - 20",
+        "background_image": "https://i.blogs.es/205057/fifa-22/1366_2000.jpeg"
+    },
+    {
+        "name": "League Of Legends",
+        "rating": "4.89 de 5.00",
+        "released": "2008 - 04 - 18",
+        "updated": "2022 - 02 - 10",
+        "background_image": "https://esports.eldesmarque.com/wp-content/uploads/2019/09/LoL2.jpg"
+    },
+    {
+        "name": "Forza Horizon 5",
+        "rating": "4.72 de 5.00",
+        "released": "2021 - 05 - 18",
+        "updated": "2021 - 10 - 02",
+        "background_image": "https://theinformant.co.nz/wp-content/uploads/2021/11/1638164414_Travel-to-New-Zealand-and-play-Forza-Horizon-5-NOW.jpg"
+    },
+    {
+        "name": "Riders Republic",
+        "rating": "3.86 de 5.00",
+        "released": "2021 - 03 - 01",
+        "updated": "2022 - 2 - 03",
+        "background_image": "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_STD_Store_Landscape_2560x1440-2560x1440-0d275f75a75f6367c373e727bc78b4d1.jpg"
+    },
+    {
+        "name": "Red Dead Redemption II",
+        "rating": "4.54 de 5.00",
+        "released": "2012 - 07 - 18",
+        "updated": "2018 - 12 - 10",
+        "background_image": "https://www.irrompibles.net/irrwp/wp-content/uploads/2018/12/images_2018_informes_red-dead-redemption-2_red-dead-redemption-2-review.jpg"
+    },
+    {
+        "name": "Super Smash Bros Ultimate",
+        "rating": "4.88 de 5.00",
+        "released": "1999 - 01 - 21",
+        "updated": "2018 - 03 - 10",
+        "background_image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_SuperSmashBrosUltimate_02_image1600w.jpg"
+    }
+
+]
